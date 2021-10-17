@@ -372,10 +372,10 @@
 
 ### 📊 Github Stats
 
-<a href='https://github.com/Klodovsky/github-stats'>
+<a href='https://github.com/KhaledSMIT/github-stats'>
   
-![Stats Overview](https://raw.githubusercontent.com/Klodovsky/github-stats/master/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Klodovsky/github-stats/master/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/KhaledSMIT/github-stats/master/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/KhaledSMIT/github-stats/master/generated/languages.svg)
 
 </a>
 
