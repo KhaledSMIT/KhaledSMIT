@@ -377,6 +377,7 @@
 ![Stats Overview](https://raw.githubusercontent.com/KhaledSMIT/github-stats/master/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/KhaledSMIT/github-stats/master/generated/languages.svg)
 
+ ![KhaledSMIT's github stats](https://github-readme-stats.vercel.app/api?username=KhaledSMIT&show_icons=true&theme=radical)
 </a>
 
 <br>
